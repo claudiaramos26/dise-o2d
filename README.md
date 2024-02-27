@@ -1,2 +1,2 @@
 # dise-o2d
-2.3. Diseño guiado
+3.1. La escena principal y la estructura del personaje
